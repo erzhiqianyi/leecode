@@ -5,5 +5,4 @@
 LeetCode算法java实现。
 
 ##  Chapters
-### [1. Array and String(数组和字符串)]()
-
+### [1. Array and String(数组和字符串)](ArrayAndString)
