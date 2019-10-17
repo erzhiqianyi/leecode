@@ -1,6 +1,6 @@
 package com.erzhiqianyi.leecode.array;
 
-public class ArrayBasic {
+public class ArrayTest {
 
     public static void main(String[] args) {
         // 1. Initialize
