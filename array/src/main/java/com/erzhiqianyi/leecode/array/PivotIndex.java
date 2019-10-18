@@ -6,7 +6,6 @@ package com.erzhiqianyi.leecode.array;
  * We define the pivot index as the index where the sum of the numbers to the left of the index is equal to the sum of the numbers to the right of the index.
  * <p>
  * If no such index exists, we should return -1. If there are multiple pivot indexes, you should return the left-most pivot index.
- * time: 8:50 - 2019/10/17
  * <p>
  * <p>
  * Example 1:
@@ -28,6 +27,7 @@ package com.erzhiqianyi.leecode.array;
  * There is no index that satisfies the conditions in the problem statement.
  *
  * @author 曹峰
+ * time: 8:50 - 2019/10/17
  */
 public class PivotIndex {
 
