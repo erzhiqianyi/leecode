@@ -26,7 +26,7 @@ package com.erzhiqianyi.leecode.array;
  * Explanation:
  * There is no index that satisfies the conditions in the problem statement.
  *
- * @author 曹峰
+ * @author 二之前一
  * time: 8:50 - 2019/10/17
  */
 public class PivotIndex {

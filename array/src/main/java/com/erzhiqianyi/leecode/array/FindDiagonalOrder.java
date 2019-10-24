@@ -15,7 +15,7 @@ package com.erzhiqianyi.leecode.array;
  * <p>
  * 2019/10/22 8:11
  *
- * @author 曹峰
+ * @author 二之前一
  */
 public class FindDiagonalOrder {
     public int[] findDiagonalOrder(int[][] matrix) {

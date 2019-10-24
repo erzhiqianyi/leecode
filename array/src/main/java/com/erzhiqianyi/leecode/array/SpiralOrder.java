@@ -26,7 +26,7 @@ import java.util.List;
  * Output: [1,2,3,4,8,12,11,10,9,5,6,7]
  * time: 7:30 - 2019/10/23
  *
- * @author 曹峰
+ * @author 二之前一
  */
 public class SpiralOrder {
 
