@@ -5,7 +5,7 @@
 LeetCode算法java实现。
 
 ##  Chapters
-### [1. Array and String(数组和字符串)](ArrayAndString)
+### [1. Array(数组)](Array)
 - [数组](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E6%95%B0%E7%BB%84)
     - [数组简介](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E6%95%B0%E7%BB%84%E7%AE%80%E4%BB%8B)
     - [数组基本操作](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E6%95%B0%E7%BB%84%E7%89%B9%E7%82%B9)
@@ -18,14 +18,19 @@ LeetCode算法java实现。
         - [498对角线遍历](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#498%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86)
         - [54螺旋矩阵](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#54%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)
         - [118杨辉三角](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#118%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92)
-- [字符串](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E5%AD%97%E7%AC%A6%E4%B8%B2)
-    - [字符串简介](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%AE%80%E4%BB%8B)
+### [2. String字符串](/wiki/String)
+   - [字符串简介](/wiki/String#字符串简介)
+   - [字符串基本操作](/String#字符串基本操作)
+   - [StringBuilder和StringBuffer](String#StringBuilder和StringBuffer)
+   - [例题](String#例题)
+        - [二进制求和](String#例题#二进制求和)
 #
 ## Index 
 |编号|题目|难度|提交时间|解答|
 |--|--|--|--|--|
 |54|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|中等|2019-10-18|[Spiral Matrix](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/SpiralOrder.java)|
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)|简单|2019-10-18|[Plus One](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PlusOne.java)|
+|67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|简单|2019-10-27|[Add Binary](https://github.com/erzhiqianyi/leecode/blob/master/string/src/main/java/com/erzhiqianyi/leecode/string/AddBinary.java)|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|简单|2019-10-25|[Pascal's Triangle](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PascalTriangle.java)|
 |498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|中等|2019-10-22|[FindDiagonalOrder](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/FindDiagonalOrder.java)|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index)|简单|2019-10-17|[Pivot Index](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PivotIndex.java)|
