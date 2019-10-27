@@ -5,26 +5,26 @@
 LeetCode算法java实现。
 
 ##  Chapters
-### [1. Array(数组)](Array)
-- [数组](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E6%95%B0%E7%BB%84)
-    - [数组简介](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E6%95%B0%E7%BB%84%E7%AE%80%E4%BB%8B)
-    - [数组基本操作](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E6%95%B0%E7%BB%84%E7%89%B9%E7%82%B9)
-    - [Arrays操作](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#arrays%E6%93%8D%E4%BD%9C)
-    - [动态数组](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84)
-    - [例题](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#%E4%BE%8B%E9%A2%98)
-        - [724寻找数组的中心索引](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#724%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95)
-        - [747至少是其他数字两倍的最大数](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#747%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0)
-        - [66加一](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#66%E5%8A%A0%E4%B8%80)
-        - [498对角线遍历](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#498%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86)
-        - [54螺旋矩阵](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#54%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)
-        - [118杨辉三角](https://github.com/erzhiqianyi/leecode/wiki/ArrayAndString#118%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92)
-### [2. String字符串](/wiki/String)
-   - [字符串简介](/wiki/String#字符串简介)
-   - [字符串基本操作](/String#字符串基本操作)
-   - [StringBuilder和StringBuffer](String#StringBuilder和StringBuffer)
-   - [例题](String#例题)
-        - [二进制求和](String#例题#二进制求和)
-#
+### [1. Array(数组)](https://github.com/erzhiqianyi/leecode/wiki/Array)
+- [数组](https://github.com/erzhiqianyi/leecode/wiki/Array#%E6%95%B0%E7%BB%84)
+    - [数组简介](https://github.com/erzhiqianyi/leecode/wiki/Array#%E6%95%B0%E7%BB%84%E7%AE%80%E4%BB%8B)
+    - [数组基本操作](https://github.com/erzhiqianyi/leecode/wiki/Array#%E6%95%B0%E7%BB%84%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
+    - [Arrays操作](https://github.com/erzhiqianyi/leecode/wiki/Array#arrays%E6%93%8D%E4%BD%9C)
+    - [动态数组](https://github.com/erzhiqianyi/leecode/wiki/Array#%E5%8A%A8%E6%80%81%E6%95%B0%E7%BB%84)
+    - [例题](https://github.com/erzhiqianyi/leecode/wiki/Array#%E4%BE%8B%E9%A2%98)
+        - [724寻找数组的中心索引](https://github.com/erzhiqianyi/leecode/wiki/Array#724%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95)
+        - [747至少是其他数字两倍的最大数](https://github.com/erzhiqianyi/leecode/wiki/Array#747%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0)
+        - [66加一](https://github.com/erzhiqianyi/leecode/wiki/Array#66%E5%8A%A0%E4%B8%80)
+        - [498对角线遍历](https://github.com/erzhiqianyi/leecode/wiki/Array#498%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86)
+        - [54螺旋矩阵](https://github.com/erzhiqianyi/leecode/wiki/Array#54%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)
+        - [118杨辉三角](https://github.com/erzhiqianyi/leecode/wiki/Array#118%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92)
+### [2. String(字符串)](https://github.com/erzhiqianyi/leecode/wiki/String)
+   - [字符串简介](https://github.com/erzhiqianyi/leecode/wiki/String#%E5%AD%97%E7%AC%A6%E4%B8%B2)
+   - [字符串基本操作](https://github.com/erzhiqianyi/leecode/wiki/String#%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
+   - [StringBuilder和StringBuffer](https://github.com/erzhiqianyi/leecode/wiki/String#stringbuilder%E5%92%8Cstringbuffer)
+   - [例题](https://github.com/erzhiqianyi/leecode/wiki/String#%E4%BE%8B%E9%A2%98)
+        - [二进制求和](https://github.com/erzhiqianyi/leecode/wiki/String#%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)
+
 ## Index 
 |编号|题目|难度|提交时间|解答|
 |--|--|--|--|--|
