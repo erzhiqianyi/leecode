@@ -24,10 +24,12 @@ LeetCode算法java实现。
    - [StringBuilder和StringBuffer](https://github.com/erzhiqianyi/leecode/wiki/String#stringbuilder%E5%92%8Cstringbuffer)
    - [例题](https://github.com/erzhiqianyi/leecode/wiki/String#%E4%BE%8B%E9%A2%98)
         - [二进制求和](https://github.com/erzhiqianyi/leecode/wiki/String#%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)
+        - [实现字符串查找](https://github.com/erzhiqianyi/leecode/wiki/String#%E5%AE%9E%E7%8E%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9F%A5%E6%89%BE)
 
 ## Index 
 |编号|题目|难度|提交时间|解答|
 |--|--|--|--|--|
+|28|[Implement strStr()](https://leetcode-cn.com/problems/implement-strstr/)|简单|2019-10-28|[Implement strStr()](https://github.com/erzhiqianyi/leecode/blob/master/string/src/main/java/com/erzhiqianyi/leecode/string/StrStr.java)|
 |54|[Spiral Matrix](https://leetcode-cn.com/problems/spiral-matrix/)|中等|2019-10-18|[Spiral Matrix](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/SpiralOrder.java)|
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)|简单|2019-10-18|[Plus One](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PlusOne.java)|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|简单|2019-10-27|[Add Binary](https://github.com/erzhiqianyi/leecode/blob/master/string/src/main/java/com/erzhiqianyi/leecode/string/AddBinary.java)|

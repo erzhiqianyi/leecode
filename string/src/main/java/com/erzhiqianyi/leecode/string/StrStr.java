@@ -53,7 +53,7 @@ public class StrStr {
                     ;
 
                 if (j == end) {
-                    /* Found whole string. */
+                    /* 匹配到整个字符串 */
                     return i;
                 }
             }
