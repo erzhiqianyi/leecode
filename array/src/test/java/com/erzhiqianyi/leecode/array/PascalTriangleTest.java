@@ -2,15 +2,13 @@ package com.erzhiqianyi.leecode.array;
 
 import org.junit.Before;
 import org.junit.Test;
-import sun.java2d.pipe.SpanClipRenderer;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 public class PascalTriangleTest {
 
