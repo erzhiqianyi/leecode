@@ -21,4 +21,12 @@ public class ArrayPartitionOneTest {
         int result = arrayPartitionOne.arrayPairSum(nums);
         assertEquals(expected,result);
     }
+
+    @Test
+    public void arrayPairSumTwo() {
+        int[] nums = new int[]{1, 1, 2, 2};
+        int expected = 3;
+        int result = arrayPartitionOne.arrayPairSum(nums);
+        assertEquals(expected,result);
+    }
 }
