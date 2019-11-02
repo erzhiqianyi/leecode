@@ -19,6 +19,8 @@ LeetCode算法java实现。
         - [54螺旋矩阵](https://github.com/erzhiqianyi/leecode/wiki/Array#54%E8%9E%BA%E6%97%8B%E7%9F%A9%E9%98%B5)
         - [118杨辉三角](https://github.com/erzhiqianyi/leecode/wiki/Array#118%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92)
         - [561数组拆分](https://github.com/erzhiqianyi/leecode/wiki/Array#561%E6%95%B0%E7%BB%84%E6%8B%86%E5%88%86)
+        - [167两数之和 II - 输入有序数组](https://github.com/erzhiqianyi/leecode/wiki/Array#167%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8Cii-%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84)
+
 ### [2. String(字符串)](https://github.com/erzhiqianyi/leecode/wiki/String)
    - [字符串简介](https://github.com/erzhiqianyi/leecode/wiki/String#%E5%AD%97%E7%AC%A6%E4%B8%B2)
    - [字符串基本操作](https://github.com/erzhiqianyi/leecode/wiki/String#%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
@@ -37,6 +39,7 @@ LeetCode算法java实现。
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)|简单|2019-10-18|[Plus One](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PlusOne.java)|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|简单|2019-10-27|[Add Binary](https://github.com/erzhiqianyi/leecode/blob/master/string/src/main/java/com/erzhiqianyi/leecode/string/AddBinary.java)|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|简单|2019-10-25|[Pascal's Triangle](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PascalTriangle.java)|
+|167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|简单|2019-11-02|[Two Sum II - Input array is sorted](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/TwoSum.java)|
 |498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|中等|2019-10-22|[FindDiagonalOrder](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/FindDiagonalOrder.java)|
 |561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/)|简单|2019-11-02|[Array Partition I](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/ArrayPartitionOne.java)|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index)|简单|2019-10-17|[Pivot Index](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PivotIndex.java)|
