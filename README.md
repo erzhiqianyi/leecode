@@ -26,9 +26,11 @@ LeetCode算法java实现。
    - [字符串基本操作](https://github.com/erzhiqianyi/leecode/wiki/String#%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%9F%BA%E6%9C%AC%E6%93%8D%E4%BD%9C)
    - [StringBuilder和StringBuffer](https://github.com/erzhiqianyi/leecode/wiki/String#stringbuilder%E5%92%8Cstringbuffer)
    - [例题](https://github.com/erzhiqianyi/leecode/wiki/String#%E4%BE%8B%E9%A2%98)
-        - [二进制求和](https://github.com/erzhiqianyi/leecode/wiki/String#%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)
-        - [实现字符串查找](https://github.com/erzhiqianyi/leecode/wiki/String#%E5%AE%9E%E7%8E%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9F%A5%E6%89%BE)
-        - [查找最长公共前缀](https://github.com/erzhiqianyi/leecode/wiki/String#%E6%9F%A5%E6%89%BE%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80)
+        - [67二进制求和](https://github.com/erzhiqianyi/leecode/wiki/String#67%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C)
+        - [28实现字符串查找](https://github.com/erzhiqianyi/leecode/wiki/String#28%E5%AE%9E%E7%8E%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9F%A5%E6%89%BE)
+        - [14查找最长公共前缀](https://github.com/erzhiqianyi/leecode/wiki/String#14%E6%9F%A5%E6%89%BE%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80)
+        - [344反转字符串](https://github.com/erzhiqianyi/leecode/wiki/String#344%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)
+
 
 ## Index 
 |编号|题目|难度|提交时间|解答|
@@ -40,6 +42,7 @@ LeetCode算法java实现。
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|简单|2019-10-27|[Add Binary](https://github.com/erzhiqianyi/leecode/blob/master/string/src/main/java/com/erzhiqianyi/leecode/string/AddBinary.java)|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|简单|2019-10-25|[Pascal's Triangle](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PascalTriangle.java)|
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|简单|2019-11-02|[Two Sum II - Input array is sorted](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/TwoSum.java)|
+|344|[Reverse String](https://leetcode-cn.com/problems/reverse-string/)|简单|2019-10-30|[Reverse String](https://github.com/erzhiqianyi/leecode/blob/master/string/src/main/java/com/erzhiqianyi/leecode/string/ReverseString.java)|
 |498|[Diagonal Traverse](https://leetcode-cn.com/problems/diagonal-traverse/)|中等|2019-10-22|[FindDiagonalOrder](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/FindDiagonalOrder.java)|
 |561|[Array Partition I](https://leetcode-cn.com/problems/array-partition-i/)|简单|2019-11-02|[Array Partition I](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/ArrayPartitionOne.java)|
 |724|[Find Pivot Index](https://leetcode-cn.com/problems/find-pivot-index)|简单|2019-10-17|[Pivot Index](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PivotIndex.java)|
