@@ -21,6 +21,20 @@ public class RotateArrayTest {
         int[] expected = new int[]{5, 6, 7, 1, 2, 3, 4};
         rotateArray.rotate(nums, k);
         assertArrayEquals(expected, nums);
+
+        nums = new int[]{1, 2, 3, 4, 5, 6, 7};
+        rotateArray.rotateOne(nums, k);
+        assertArrayEquals(expected, nums);
+
+        nums = new int[]{1, 2, 3, 4, 5, 6, 7};
+        rotateArray.rotateTwo(nums, k);
+        assertArrayEquals(expected, nums);
+
+        nums = new int[]{1, 2, 3, 4, 5, 6, 7};
+        rotateArray.rotateThree(nums, k);
+        assertArrayEquals(expected, nums);
+
+
     }
 
     @Test

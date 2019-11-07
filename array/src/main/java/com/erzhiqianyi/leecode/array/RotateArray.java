@@ -30,23 +30,68 @@ import org.omg.PortableInterceptor.SYSTEM_EXCEPTION;
  * @author 二之前一
  */
 public class RotateArray {
-
     public void rotate(int[] nums, int k) {
         k = k % nums.length;
-        reverseArray(nums,0,nums.length-1);
-        reverseArray(nums,0,k-1);
-        reverseArray(nums,k,nums.length-1);
+        reverseArray(nums, 0, nums.length - 1);
+        reverseArray(nums, 0, k - 1);
+        reverseArray(nums, k, nums.length - 1);
 
     }
 
-    public void reverseArray(int[] nums ,int i ,int j ){
+
+    public void rotateOne(int[] nums, int k) {
+        int temp, previous;
+        for (int i = 0; i < k; i++) {
+            previous = nums[nums.length - 1];
+            for (int j = 0; j < nums.length; j++) {
+                temp = nums[j];
+                nums[j] = previous;
+                previous = temp;
+            }
+        }
+    }
+
+
+    public void rotateTwo(int[] nums, int k) {
+        int length = nums.length;
+        int target = 0;
+        int[] result = new int[length];
+        for (int i = 0; i < length; i++) {
+            target = (i + k) % length;
+            result[target] = nums[i];
+        }
+        for (int i = 0; i < length; i++) {
+            nums[i] = result[i];
+        }
+
+    }
+
+    public void rotateThree(int[] nums, int k) {
+        k = k % nums.length;
+        int count = 0;
+        for (int start = 0; count < nums.length; start++) {
+            int current = start;
+            int prev = nums[start];
+            do {
+                int next = (current + k) % nums.length;
+                int temp = nums[next];
+                nums[next] = prev;
+                prev = temp;
+                current = next;
+                count++;
+            } while (start != current);
+        }
+    }
+
+
+    public void reverseArray(int[] nums, int i, int j) {
         int temp;
-        while ( i < j){
-           temp= nums[i] ;
-           nums[i] = nums[j];
-           nums[j] =temp;
-           i++;
-           j--;
+        while (i < j) {
+            temp = nums[i];
+            nums[i] = nums[j];
+            nums[j] = temp;
+            i++;
+            j--;
         }
     }
 
