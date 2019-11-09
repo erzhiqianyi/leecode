@@ -24,6 +24,7 @@ LeetCode算法java实现。
         - [485最大连续1的个数](https://github.com/erzhiqianyi/leecode/wiki/Array#485%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%AD1%E7%9A%84%E4%B8%AA%E6%95%B0)
         - [209长度最小的子数组](https://github.com/erzhiqianyi/leecode/wiki/Array#209%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84)
         - [189旋转数组](https://github.com/erzhiqianyi/leecode/wiki/Array#189%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84)
+        - [119杨辉三角 II](https://github.com/erzhiqianyi/leecode/wiki/Array#119%E6%9D%A8%E8%BE%89%E4%B8%89%E8%A7%92II)
 
 ### [2. String(字符串)](https://github.com/erzhiqianyi/leecode/wiki/String)
    - [字符串简介](https://github.com/erzhiqianyi/leecode/wiki/String#%E5%AD%97%E7%AC%A6%E4%B8%B2)
@@ -46,6 +47,7 @@ LeetCode算法java实现。
 |66|[Plus One](https://leetcode-cn.com/problems/plus-one/)|简单|2019-10-18|[Plus One](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PlusOne.java)|
 |67|[Add Binary](https://leetcode-cn.com/problems/add-binary/)|简单|2019-10-27|[Add Binary](https://github.com/erzhiqianyi/leecode/blob/master/string/src/main/java/com/erzhiqianyi/leecode/string/AddBinary.java)|
 |118|[Pascal's Triangle](https://leetcode-cn.com/problems/pascals-triangle/)|简单|2019-10-25|[Pascal's Triangle](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PascalTriangle.java)|
+|119|[Pascal's Triangle II](https://leetcode-cn.com/problems/pascals-triangle-ii/)|简单|2019-11-09|[Pascal's Triangle II](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/PascalTriangleTwo.java)|
 |167|[Two Sum II - Input array is sorted](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)|简单|2019-11-02|[Two Sum II - Input array is sorted](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/TwoSum.java)|
 |189|[Rotate Array](https://leetcode-cn.com/problems/rotate-array/)|简单|2019-11-07|[Rotate Array](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/RotateArray.java)|
 |209|[Minimum Size Subarray Sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/)|中等|2019-11-03|[Minimum Size Subarray Sum](https://github.com/erzhiqianyi/leecode/blob/master/array/src/main/java/com/erzhiqianyi/leecode/array/MinSubArrayLen.java)|
